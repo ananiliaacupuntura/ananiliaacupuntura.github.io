@@ -13,7 +13,7 @@ hero:
     hero_description: Clínica especializada em Acupuntura Médica, dor e fisiatria.
 
 # Contact form
-api_token: # Enter API token here
+api_token: 7b00a206c065b61792226de40fa4c151 # Enter API token here
 
 # Contact info
 contact:
