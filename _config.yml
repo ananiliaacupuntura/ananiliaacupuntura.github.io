@@ -1,0 +1,66 @@
+# Site settings
+title: Ananilia Finizola de Vasconcelos | Médica acupunturista
+description: "Acupuntura Médica, dor e fisiatria"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+#logo_url: svg/min/logo.svg
+logo_url: img/logo.png
+
+# Hero
+hero:
+    hero_img: hero.jpg
+    hero_title: Ananilia Acupuntura
+    hero_description: Clínica especializada em Acupuntura Médica, dor e fisiatria.
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: (81) 3446 1289
+    emergency: (81) 98803 2597
+    email: ananiliaacupuntura@gmail.com
+    address: R Comendador Bento Aguiar 436, <br> Recife, PE - Brasil
+
+# Opening hours
+monday_friday: 9:00 – 18:00
+saturday: Fechado
+sunday: Fechado
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: R Comendador Bento Aguiar 436, Recife, PE - Brasil
+    address_details: img/logo.png
+
+# Social settings
+facebook: http://facebook.com
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+skype: skype:obaez_design?userinfo
+feed: yes
+
+# Footer
+copyright: Ananilia F. de Vasconcelo © 2017 Acupunturista - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics:
+google_verification:
